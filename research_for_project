@@ -1,0 +1,171 @@
+Software Project Planning Questions
+5th Semester AOOP Class  |  Questionnaire with examples
+Hospital, Restaurant, and Shop teams can all use this worksheet. Each question includes guidance and a fictional Library Management App example. Write your own answer for your assigned project; do not copy the library details.
+Project: _______________________    Team: 5th Semester PM
+Members: _______________________    Date: _______________________
+Goals and users
+1. What is the name of your project?
+How to answer: Write a short name that tells people what your application manages.
+Example: Our project is called Library Management App.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+2. What is the main goal of your project?
+How to answer: Describe the main result you want to achieve in one sentence.
+Example: Our goal is to help a school library manage books, borrowing, and returns in one place.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+3. What problem will your application solve?
+How to answer: Explain what is difficult in the current way of working.
+Example: The library uses a paper notebook. Staff struggle to find borrowing records and identify overdue books.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+ 
+Project: _______________________    Team: _______________________
+Goals and users continued
+4. Who will use your application?
+How to answer: List the groups of people who will use the application.
+Example: The users will be librarians, students, and a system administrator.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+5. What will each type of user be allowed to do?
+How to answer: For each user group, explain which tasks they can perform.
+Example: Librarians can issue and receive books. Students can search books and view their own loans. The administrator can manage user accounts.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+6. How will your application make work easier for its users?
+How to answer: Describe a practical improvement for users, such as less searching or fewer mistakes.
+Example: A librarian can search a student name and see borrowed books immediately instead of checking several notebook pages.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+ 
+Project: _______________________    Team: _______________________
+Features and scope
+7. What are the main features of your application? List five to seven features.
+How to answer: List five to seven main actions your application will support.
+Example: Login; book management; student registration; book search; borrowing; returns; overdue reports.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+8. Which three features will you build first, and why?
+How to answer: Choose three essential features and explain why they come first.
+Example: We will build login, book management, and borrowing first because staff need secure access, book records, and a way to issue books.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+9. What will be included in the first version of your application?
+How to answer: State the features and limits your team promises to deliver first.
+Example: Version one will support one school library, book records, student accounts, borrowing, returns, and an overdue list.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+ 
+Project: _______________________    Team: _______________________
+Features and scope continued
+10. Which features will you leave for a future version?
+How to answer: List useful extras that are not needed for the first release.
+Example: We will add online reservations, email reminders, and support for multiple libraries in a future version.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+11. What information will your application store?
+How to answer: Name the main records and give examples of their fields.
+Example: We will store books with title and copy number, students with name and student ID, and loans with issue date, due date, and return date.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+12. Describe one main task a user will complete in your application, step by step.
+How to answer: Choose one common task and describe its steps from start to finish.
+Example: To borrow a book: 1) The librarian finds the student. 2) Selects an available book copy. 3) Enters the due date. 4) Confirms the loan. 5) The app marks the copy as borrowed.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+ 
+Project: _______________________    Team: _______________________
+Team resources and schedule
+13. Who are your team members, and what is each member responsible for?
+How to answer: Write each member name and their main responsibility. A person may have more than one role.
+Example: Amina coordinates the team and collects requirements. Bilal designs screens. Sara builds the database and backend. Omar builds the frontend and coordinates testing. Everyone helps with documentation.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+14. What tools, equipment, and learning resources will your team need?
+How to answer: List what you need to build and learn the project.
+Example: We need classroom computers, a code editor, a database, Git, internet access for learning, sample book records, and the teacher's notes.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+15. Will your project have any costs? List the expected costs, or write no expected costs.
+How to answer: List expected spending and state your assumptions. Do not copy the example amount as a real price.
+Example: We expect no extra software or hosting costs because we will use free tools and demonstrate on classroom computers. We will confirm printing costs if printed guides are required.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+ 
+Project: _______________________    Team: _______________________
+Team resources and schedule continued
+16. How will you divide the project work across twelve weeks?
+How to answer: Give a short task or milestone for each week.
+Example: Week 1: planning. Week 2: requirements. Week 3: screen and database design. Week 4: login and book records. Week 5: borrowing and returns. Week 6: reports and integration. Week 7: testing and fixes. Week 8: deployment, documentation, and demonstration.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+17. How will your team share work and check progress?
+How to answer: Explain how you will assign tasks, share files, and review progress.
+Example: We will use a shared task board and Git repository. Each task will have an owner and due date. We will meet twice a week to review completed work and problems.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+18. What help or training will your team need before starting development?
+How to answer: Identify skills your team needs to learn or practice.
+Example: We need help with database relationships, login permissions, and Git. We will practice these using a small sample application before building the main features.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+ 
+Project: _______________________    Team: _______________________
+Risks and successful completion
+19. What are three risks or difficulties your team may face?
+How to answer: List three realistic problems that could delay or harm your project.
+Example: Our risks are limited database experience, losing project files, and adding too many extra features.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+20. How will you reduce or handle each of these risks?
+How to answer: Match each risk from the previous answer with a practical action.
+Example: For limited experience, we will practice and ask the teacher for help. For lost files, we will keep regular backups and use Git. For extra features, we will keep an agreed first-version feature list.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+21. How will you protect the information stored in your application?
+How to answer: Explain how you will control access and reduce data loss.
+Example: Users will log in with individual accounts. Students will see only their own loan records. The app will store password hashes, and we will back up the database regularly.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+ 
+Project: _______________________    Team: _______________________
+Risks and successful completion continued
+22. How will you check that your application works correctly? Give three example checks.
+How to answer: Give three tests and say what should happen in each one.
+Example: 1) Borrow an available copy: the loan is saved and the copy becomes unavailable. 2) Try borrowing that copy again: the app rejects it. 3) Return the copy: the loan is marked returned and the copy becomes available.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+23. What must your application do for your team to consider the project successful?
+How to answer: Describe observable results that show your project is complete.
+Example: A librarian can add a book, register a student, issue and return a copy, and view overdue loans. Our agreed feature checks pass, and the teacher accepts the demonstration.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
+24. What will you submit and demonstrate at the end of the project?
+How to answer: List your final deliverables and describe the main demonstration.
+Example: We will submit the working app, source code, database setup, user guide, and test results. We will demonstrate adding a book, issuing it to a student, returning it, and checking the updated availability.
+Your project answer:
+________________________________________________________________________
+________________________________________________________________________
