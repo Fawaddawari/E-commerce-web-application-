@@ -3,29 +3,29 @@
 
 | Form Question | Task | Owner | Support / Review |
 
-| 1. Project name Fawad
-| 2. Main goal | Fawad 
+| 1. Project name Fawad DONE!!!
+| 2. Main goal | Fawad  DONE!!!
 | 3. Problem to solve| Mohib 
 | 4. Who will use it | Mohib
 | 5. What each user can do | Hidayat ullah
-| 6. How it makes work easier | Mohib |
+| 6. How it makes work easier | Mohib ullah |
 | 7. Main features | Fawad |
 | 8. First three features | Fawad |
 | 9. First version scope | What version 1 will include | Fawad |
-| 10. Future features | Wishlist, reviews, payment gateway, email, coupons | Niaz |
+| 10. Future features | Wishlist, reviews, payment gateway, email, coupons | Niaz mohammad|
 | 11. Information stored | Database records and fields | Fawad |
-| 12. One main task step-by-step | Example: customer checkout process | Bakht |
+| 12. One main task step-by-step | Example: customer checkout process | Bakht mohammad|
 | 13. Team members and responsibilities | Write each member’s role | Fawad |
-| 14. Tools and resources | Python, database, VS Code, Git, browser, Postman | Bakht |
+| 14. Tools and resources | Python, database, VS Code, Git, browser, Postman | Bakht mohammad |
 | 15. Costs | Free tools, no expected costs | Hidayat ullah | 
 | 16. 12-week schedule | Weekly milestones | Hidayat ullah |
 | 17. How you share work | GitHub, task board, meetings | Fawad | Bakht helps explain Git |
 | 18. Training needed | Git, Python, database | Bakht / Niaz | Fawad plans training |
-| 19. Three risks | Limited Git experience, too many features, time | Mohib | Fawad adds technical risks |
-| 20. Risk handling | Practice, backups, fixed feature list | Fawad | Mohib writes clearly |
-| 21. Protect information | Password hashing, roles, validation, backups | Fawad | Bakht reviews |
+| 19. Three risks | Limited Git experience, too many features, time | Mohib ullah| Fawad adds technical risks |
+| 20. Risk handling | Practice, backups, fixed feature list | Fawad | Mohib ullah writes clearly |
+| 21. Protect information | Password hashing, roles, validation, backups | Fawad | Bakht mohammad reviews |
 | 22. Three test checks | Register/login, add product, checkout/order | Fawad | Bakht/Niaz run UI tests |
-| 23. Success criteria | What must work for success | Mohib | Fawad verifies |
+| 23. Success criteria | What must work for success | Hidayat ullah | Fawad verifies |
 | 24. Final deliverables/demo | App, source code, guide, demo script | Fawad | all prepares presentation |
 
 
